@@ -19,7 +19,7 @@
 
 ### 🚧 Featured Projects
 
-- **[Bodyzeal Fitworks](http://bodyzealfitworks.in/)** — Full-stack fitness web app (MERN) managing gym programs, memberships, and trainer details across multiple branches.
+- **[Bodyzeal Fitworks]** — Full-stack fitness web app (MERN) managing gym programs, memberships, and trainer details across multiple branches.
 - **Interactive Self-Healing DevOps Simulator** — Dashboard simulating traffic spikes, pod failures, and Kubernetes self-healing using React, Docker, and Kubernetes.
 - **PG Connect** — Android app to discover nearby PG accommodations via location-based search (Java, SQLite).
 
